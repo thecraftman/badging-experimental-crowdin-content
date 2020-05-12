@@ -2,6 +2,13 @@
 
 ## Applicants are to open a PR  [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
+> The Event process will be initialized in a tabular format having the; 
+> Date        | Event                                      | Badge 
+------------|----------------------------------------------|--------------------
+ `Date of event`
+ `Event (name)` 
+ `Event Badge`
+
 ### Obtaining Event badges is very important because it encourages Diversity & Inclusion by implementing the appropriate practices and guidelines.  
 
 **Specific metrics are used to determine how diverse and Inclusive the Events are, if met the Badges will be issued accordingly.**
