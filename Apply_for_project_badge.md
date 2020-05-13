@@ -12,3 +12,18 @@
 
  Project Name       | Description of project | Project Title | Project Labels 
 ------------|----------------------------------------------|--------------------|--------------
+
+
+**Specific Metrics will be used to determine how Diverse and Inclusive your project is.**
+
+They are:
+
+1. [Documentation](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/documentation.md)
+
+2. [Issue Tracker](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/issue-tracker.md)
+
+3. [Communication Channels](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/channels.md)
+
+4. [Response Times & Quality](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/response-time-quality.md)
+
+5. [ Sentiment](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/sentiment.md)
