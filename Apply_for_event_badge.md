@@ -17,6 +17,7 @@ The table format will have;
 
 ### Obtaining Event badges is very important because it encourages Diversity & Inclusion by implementing the appropriate practices and guidelines.  
 
+
 **Specific metrics are used to determine how diverse and Inclusive the Events are, if met the Badges will be issued accordingly.**
 
 #### The metrics include:
@@ -30,6 +31,8 @@ The table format will have;
 4. [Code of Conduct at Event](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/event-code-of-conduct.md)
 
 5. [Family Friendliness](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/family-friendly.md)
+
+
 
 
 
