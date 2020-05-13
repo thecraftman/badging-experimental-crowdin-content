@@ -1,0 +1,1 @@
+# Applicants workflow to apply for Project Badge
