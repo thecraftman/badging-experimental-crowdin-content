@@ -8,3 +8,7 @@
 
 - **Improvements on accessibility**
 
+#### The Project process will be implemented in the format of 
+
+ Project Name       | Description of project | Project Title | Project Labels 
+------------|----------------------------------------------|--------------------|--------------
