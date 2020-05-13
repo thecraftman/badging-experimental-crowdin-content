@@ -2,6 +2,8 @@
 
 ## Applicants are to open a PR  [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
+### Please See the Diversity and Inclusion [README](https://github.com/badging/diversity-and-inclusion/blob/master/README.md#applying-for-badges) for more information about applying for an event badge.  
+
 >### The Event process will be initialized in a tabular format; 
 
  Date        | Event                                      | Badge 
