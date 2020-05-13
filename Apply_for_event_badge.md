@@ -2,9 +2,12 @@
 
 ## Applicants are to open a PR  [here](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
-> The Event process will be initialized in a tabular format having the; 
-> Date        | Event                                      | Badge 
+>### The Event process will be initialized in a tabular format having the; 
+
+ Date        | Event                                      | Badge 
 ------------|----------------------------------------------|--------------------
+
+
  `Date of event`
  `Event (name)` 
  `Event Badge`
