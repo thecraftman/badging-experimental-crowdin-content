@@ -1,5 +1,5 @@
 
-**The `maintainer` will carry out an initial check of your submission, and proceed to assign a handling editor `(Reviewer)`.**
+## **The `maintainer` will carry out an initial check of your submission, and proceed to assign a handling editor `(Reviewer)`.**
 
 - ### Authors, Maintainers will respond to reviewer-raised issues on the project submission repository issue tracker
 
