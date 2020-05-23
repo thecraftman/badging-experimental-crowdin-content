@@ -13,6 +13,7 @@
  Project Name       | Description of project | Project Title | Project Labels 
 ------------|----------------------------------------------|--------------------|--------------
 
+> The Project must be hosted in a Git-based repository, ideally together with your software.
 
 **Specific Metrics will be used to determine how Diverse and Inclusive your project is.**
 
