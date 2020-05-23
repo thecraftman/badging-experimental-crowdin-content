@@ -1,9 +1,9 @@
 
 ### **The `maintainer` will carry out an initial check of your submission, and proceed to assign a handling editor `(Reviewer)`.**
 
-- **Applicants will respond to reviewer-raised issues on the *Project/Event* `.md` file
+- **Applicants will respond to reviewer-raised issues on the *Project/Event* `.md` file**
 
-- **After the review has been done, the badges for `Events/Project` will be issued.The review issue thread in the repository will be updated. 
+- **After the review has been done, the badges for `Events/Project` will be issued.The review issue thread in the repository will be updated.**
 
 - **The review issue will be closed**
 
