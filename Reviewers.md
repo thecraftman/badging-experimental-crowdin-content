@@ -1,9 +1,9 @@
 
 ## **The `maintainer` will carry out an initial check of your submission, and proceed to assign a handling editor `(Reviewer)`.**
 
-- ### Authors, Maintainers will respond to reviewer-raised issues on the project submission repository issue tracker
 
-> The `Reviewer` will check submissoins against all metrics to determine if the `badges` will be issued. 
+
+> ### The `Reviewer` will check submissoins against all metrics to determine if the `badges` will be issued. 
 
 
 
