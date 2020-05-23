@@ -8,7 +8,7 @@
 
 - **Improvements on accessibility**
 
-#### In particular, your project should be well-documented, and contain procedures
+- #### In particular, your project should be well-documented, and contain procedures
 
 #### The Project process will be implemented in the format of 
 
